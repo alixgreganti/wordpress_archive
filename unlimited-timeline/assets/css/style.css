@@ -1,0 +1,22 @@
+@charset "utf-8";
+/* CSS Document */
+#ex_plugin_settings{ background-color:rgba(253,253,253,.8); padding:15px 30px; border-radius:2px}
+#ex_plugin_settings select, #ex_plugin_settings input[type=text]{ min-width:250px; height:35px}
+#ex_plugin_settings label{ margin-right:15px; display: block; margin-top:10px}
+.mce-ico.mce-i-ex_timeline_bt,
+.mce-ico.mce-i-icon-timeline{ background-image:url(../image/icon.png) !important; background-repeat: initial !important; background-size:100%}
+.wpb_element_wrapper .wpb_vc_param_value{ margin-right:15px;}
+.mce-container[aria-label="Unlimited timeline"] .mce-reset{ max-height:600px; overflow-x: scroll}
+.mce-container[aria-label="Unlimited timeline"]{ max-height:600px; overflow:hidden}
+
+
+
+
+
+
+
+
+
+
+
+
